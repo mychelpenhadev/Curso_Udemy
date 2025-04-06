@@ -15,19 +15,37 @@
     </header>
     <main class="principal">
         <div class="conteudo">
-            <nav class="modulos">
-                <div class="modulo verde">
+             <nav class="modulos">
+                 <div class="modulo verde">
                     <h3>Módulo 01</h3>
-                    <ul>
+                     <ul>
                         <li>
                             <a
-                             href="exercicio.php?dir=teste&file=teste">
-                            Olá PHP 
+                             href="exercicio.php?dir=basico&file=ola">
+                            Olá PHP
                             </a>
-                    </li>
-                    </ul>
-                </div>
-            </nav>
+                        </li>
+                         <li>
+                             <a
+                                     href="exercicio.php?dir=basico&file=html">
+                                 Integração HTML
+                             </a>
+                         </li>
+                         <li>
+                             <a
+                                     href="exercicio.php?dir=basico&file=css">
+                                 Integração CSS
+                             </a>
+                         </li>
+                         <li>
+                             <a
+                                     href="exercicio.php?dir=basico&file=comentarios">
+                                 Comentarios PHP
+                             </a>
+                         </li>
+                     </ul>
+                 </div>
+             </nav>
         </div>
     </main>
     <footer class="rodape">
