@@ -103,8 +103,24 @@
                     </li>
                 </ul>
             </div>
-        </div>
-        </nav>
+                 <div class="modulo azul">
+                     <h3>TIPOS</h3>
+                     <ul>
+                         <li>
+                             <a
+                                     href="exercicio.php?dir=variaveis&file=basico">
+                                 Variáveis
+                             </a>
+                         </li>
+                         <li>
+                             <a
+                                     href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                 Desafio Equação
+                             </a>
+                         </li>
+                     </ul>
+                 </div>
+             </nav>
     </main>
     <footer class="rodape">
         COD3R & ALUNOS © <?= date('Y'); ?>
