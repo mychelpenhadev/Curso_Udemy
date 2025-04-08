@@ -31,3 +31,14 @@ echo '<br>';
 var_dump(1 + "cinco");
 echo '<br>';
 var_dump(1 + "5 cinco");
+echo '<br>';
+var_dump(1 + "2+5"); //vai somar só até o número 2
+echo '<br>';
+var_dump(1 + "3.2");
+echo '<br>';
+var_dump(1 + "-3.2e2");
+echo '<br>';
+var_dump((int) "10.5");
+echo '<br>';
+var_dump((float) "10.5");
+echo '<br>';
