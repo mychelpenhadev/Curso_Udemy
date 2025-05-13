@@ -7,6 +7,8 @@ var_dump($lista);
 echo '<br>';
 print_r($listal);
 
+$lista[0] = 1234;
+
 echo '<br>' . $lsita[0];
 echo '<br>' . $lsita[1];
 echo '<br>' . $lsita[2];
