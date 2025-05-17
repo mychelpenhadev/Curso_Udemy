@@ -51,6 +51,42 @@
                                 Operações
                             </a>
                         </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=desafio_sorteio">
+                                Desafio Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=mult">
+                                Multidimensionais
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=constantes">
+                                Constantes
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=get">
+                                $_GET
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=post">
+                                $_POST
+                            </a>
+                        </li>
+                        <li>
+                            <a
+                                href="exercicio.php?dir=array&file=comparacao">
+                                Comparaçâo Arrays
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo roxo">
